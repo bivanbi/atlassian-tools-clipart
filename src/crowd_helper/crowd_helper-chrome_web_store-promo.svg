@@ -18,7 +18,7 @@
         <symbol id="createButton">
             <g>
                 <rect x="0" y="-20" rx="5" width="75" height="30" class="createButton"/>
-                <text x="10" y="0" class="createButtonText">Create</text>
+                <text x="11" y="0" class="createButtonText">Create</text>
             </g>
         </symbol>
         <symbol id="cancelButton">
